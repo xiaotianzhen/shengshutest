@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="main_name">#2dd800</color>
+    <color name="bg_deepmain">#2ac302</color>
+    <color name="bg_white">@color/white</color>
+    <color name="bg_orange">@color/font_orange</color>
+    <color name="bg_grey">#f2f2f2</color>
+    <color name="bg_red">#ff152c</color>
+    <color name="bg_transparent">#00000000</color>
+    <color name="bg_pop_trans">#55000000</color>
+    <color name="bg_position">#88a0bbd7</color>
+    <color name="bg_guide">#f9f8f6</color>
+    <color name="bg_losecoupon">#a3a3a3</color>
+    <color name="bg_order_item">#fafafa</color>
+
+    <color name="line_grey">#dedede</color>
+    <color name="line_darkgrey">#686868</color>
+    <color name="line_depreciate">#c1c0c0</color>
+
+    <color name="font_normal">#424242</color>
+    <color name="font_white">@color/white</color>
+    <color name="font_grey">#8a8a8a</color>
+    <color name="font_main">@color/main_name</color>
+    <color name="font_orange">@color/orange</color>
+    <color name="font_losecoupon">#a3a3a3</color>
+    <color name="font_red">#de010b</color>
+
+    <!--SwipeRefreshLayout loading color-->
+    <color name="refresh_color_1">#ff00ddff</color>
+    <color name="refresh_color_2">#ff99cc00</color>
+    <color name="refresh_color_3">#ffffbb33</color>
+    <color name="refresh_color_4">#FFFF4D4C</color>
+    <color name="refresh_color_5">#FFFFCB32</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="orange">#feab1f</color>
+</resources>
+
